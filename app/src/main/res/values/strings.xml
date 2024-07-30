@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OctopusTest</string>
+    <string name="user_message">User message</string>
+</resources>
